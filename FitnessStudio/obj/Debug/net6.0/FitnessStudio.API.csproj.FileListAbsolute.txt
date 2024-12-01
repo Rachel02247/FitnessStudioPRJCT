@@ -1,0 +1,6 @@
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio\obj\Debug\net6.0\FitnessStudio.API.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio\obj\Debug\net6.0\FitnessStudio.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio\obj\Debug\net6.0\FitnessStudio.API.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio\obj\Debug\net6.0\FitnessStudio.API.AssemblyInfo.cs
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio\obj\Debug\net6.0\FitnessStudio.API.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio\obj\Debug\net6.0\FitnessStudio.API.MvcApplicationPartsAssemblyInfo.cache

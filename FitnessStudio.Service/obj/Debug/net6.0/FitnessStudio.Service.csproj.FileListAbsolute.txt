@@ -1,0 +1,16 @@
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\FitnessStudio.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\FitnessStudio.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\FitnessStudio.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\FitnessStudio.Service.AssemblyInfo.cs
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\FitnessStudio.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\bin\Debug\net6.0\FitnessStudio.Service.deps.json
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\bin\Debug\net6.0\FitnessStudio.Service.dll
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\bin\Debug\net6.0\FitnessStudio.Service.pdb
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\bin\Debug\net6.0\FitnessStudio.Core.dll
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\bin\Debug\net6.0\FitnessStudio.Core.pdb
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\FitnessStudio.Service.csproj.CopyComplete
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\FitnessStudio.Service.dll
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\refint\FitnessStudio.Service.dll
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\FitnessStudio.Service.pdb
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\obj\Debug\net6.0\ref\FitnessStudio.Service.dll
+C:\Users\USER\Documents\רחלי\תכנות ו\netCore\FitnessStudio.Service\bin\Debug\net6.0\Services\GymnastService.cs
